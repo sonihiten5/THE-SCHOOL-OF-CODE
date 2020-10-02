@@ -1,0 +1,190 @@
+
+/* HOME */
+.hero-img
+{
+
+    background-image:url(/assets/imgs/01.jpg),linear-gradient(to top, rgba(0, 0, 0, 0.575), rgba(0, 0, 0, 0.521));
+    background-position: center ;
+    background-size: cover;
+
+    background-repeat: no-repeat;
+   text-align: center;
+  
+   padding-top: 200px;
+    padding-bottom: 100px;
+}
+.hero-content
+{
+    color: white;
+    font-size: 22px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-weight: 300;
+}
+.hero-btn
+{
+    height: 40px;
+    width: 100px;
+    border: none;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 5px;
+    background-color: #FDD60D;
+
+}
+
+
+
+
+
+
+
+
+
+/* CARDS */
+
+
+.card
+{
+    padding: 10px;
+}
+
+.card-head
+{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.card-text
+{
+    color: rgb(143, 143, 143);
+}
+
+.card-head .fa
+{
+    background-color: #FDD60D;
+    height:110px;
+    width: 110px;
+    border-radius: 50%;
+    font-size: 50px;
+    padding-top: 30px;
+    color: white;
+}
+
+
+
+
+/* SKILLS */
+
+
+
+
+
+.progress
+{
+    height: 5px;
+}
+
+
+.skill-align
+{
+    margin-top: 25px;
+}
+.skill-align h6
+{
+    color: rgb(145, 145, 145);
+}
+
+
+
+
+
+
+/* CAROUSEL */
+
+
+
+
+
+
+.carousel-inner blockquote {
+    text-align: center;
+    border: none;
+    font-size: 14px;
+    line-height: 25px;
+    background: #f0f0f0;
+    padding: 30px;
+    width: auto;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+
+.carousel-inner blockquote p{
+    font-size: 16px;
+}
+
+.carousel-indicators 
+{
+    top: 165px;
+}
+
+.carousel-indicators li
+{
+    background-color: rgb(133, 133, 133) !important;
+}
+
+.carousel-indicators  .active
+{
+    background-color: black !important;
+}
+
+
+
+
+
+
+
+/* FOOTER */
+
+
+
+
+.page_footer
+{
+   
+        padding-top: 35px;
+        border-top: 1px solid #ddd;
+        text-align: center;
+        padding-bottom: 20px;
+   
+}
+.links a
+{
+    display: inline-block;
+    margin: 0 10px;
+    color: rgb(145, 145, 145);
+    font-size: 18px;
+
+}
+.social .fa
+{
+    margin: 0 20px;
+    color:#007bff;
+    font-size: 26px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
