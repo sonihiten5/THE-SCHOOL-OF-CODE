@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+   color: red; 
+}
+
+.HeadingDemo{
+    text-align: center;
+}
+
+#HobbyDemo{
+    border-color:yellow;
+    border-style: dotted;
+    border-width: 5px;
+}
